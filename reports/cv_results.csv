@@ -1,0 +1,7 @@
+model,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std,roc_auc_mean,roc_auc_std
+dummy_most_frequent,0.844,0.0009,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+logistic,0.8618,0.0129,0.6695,0.1137,0.2221,0.0656,0.3303,0.0863,0.7795,0.0384
+logistic_balanced,0.7307,0.0263,0.3233,0.0353,0.6551,0.0541,0.4323,0.0397,0.7793,0.0376
+random_forest,0.8498,0.0094,0.541,0.0729,0.2135,0.0547,0.3047,0.0673,0.7361,0.0302
+random_forest_balanced,0.8231,0.0092,0.4259,0.033,0.3872,0.0544,0.4045,0.0403,0.7385,0.0215
+hist_gradient_boosting,0.8467,0.009,0.5254,0.0582,0.2792,0.0259,0.3618,0.0197,0.7452,0.0116
