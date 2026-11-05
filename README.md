@@ -1,4 +1,4 @@
-# Late Deliveries
+# Deliveries
 
 QuickBite wants to know, at the moment an order is placed, whether it will arrive late. If it can tell, it sends the customer a $4 voucher before the complaint comes. This project builds a scikit-learn pipeline that predicts late orders, picks the flagging threshold from the company's own costs, and saves the model so another program can load it.
 
